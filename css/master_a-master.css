@@ -1,0 +1,209 @@
+#buttonu345
+{
+	border-color: #787878;
+	background-color: transparent;
+	position: fixed;
+}
+
+#pamphletu346
+{
+	-webkit-transform: matrix(-1,0,0,-1,185,1393);
+	-ms-transform: matrix(-1,0,0,-1,185,1393);
+	transform: matrix(-1,0,0,-1,185,1393);
+	position: relative;
+}
+
+#u356
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u356.ButtonSelected
+{
+	background-color: transparent;
+}
+
+#u357
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #AEE1D3;
+	position: relative;
+}
+
+#accordionu358wrapper
+{
+	-webkit-transform: matrix(-1,0,0,-1,183,315);
+	-ms-transform: matrix(-1,0,0,-1,183,315);
+	transform: matrix(-1,0,0,-1,183,315);
+	position: relative;
+}
+
+#accordionu358
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u375
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../images/u375.png") no-repeat 0px 0px;
+}
+
+#u375:hover
+{
+	background: url("../images/u375-r.png") no-repeat 0px 0px;
+}
+
+#u375.AccordionPanelTabOpen
+{
+	background: url("../images/u375-a.png") no-repeat 0px 0px;
+}
+
+#u361
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../images/u361.png") no-repeat 0px 0px;
+}
+
+#u361.AccordionPanelTabOpen
+{
+	background: url("../images/u361-a.png") no-repeat 0px 0px;
+}
+
+#u381
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../images/u381.png") no-repeat 0px 0px;
+}
+
+#u381.AccordionPanelTabOpen
+{
+	background: url("../images/u381-a.png") no-repeat 0px 0px;
+}
+
+#u372
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../images/u372.png") no-repeat 0px 0px;
+}
+
+#u372.AccordionPanelTabOpen
+{
+	background: url("../images/u372-a.png") no-repeat 0px 0px;
+}
+
+#u363
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../images/u363.png") no-repeat 0px 0px;
+}
+
+#u363.AccordionPanelTabOpen
+{
+	background: url("../images/u363-a.png") no-repeat 0px 0px;
+}
+
+#u370
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../images/u370.png") no-repeat 0px 0px;
+}
+
+#u370.AccordionPanelTabOpen
+{
+	background: url("../images/u370-a.png") no-repeat 0px 0px;
+}
+
+#u366
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../images/u366.png") no-repeat 0px 0px;
+}
+
+#u366.AccordionPanelTabOpen
+{
+	background: url("../images/u366-a.png") no-repeat 0px 0px;
+}
+
+#u376,#u360,#u382,#u373,#u364,#u369,#u367
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u350
+{
+	position: relative;
+}
+
+#u351
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: #97E1D3;
+}
+
+#u351:hover
+{
+	background-color: #42B6FF;
+}
+
+#u351.PamphletThumbSelected
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #42B6FF;
+}
+
+#u374,#u359,#u380,#u371,#u362,#u368,#u365,#u352
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u347
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: #97E1D3;
+}
+
+#u347:hover
+{
+	background-color: #42B6FF;
+}
+
+#u348
+{
+	background-color: transparent;
+	position: relative;
+}
+
+.AccordionPanelTab,.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* accordion */
+{
+	cursor: pointer;
+}
+
+#u640-6
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
