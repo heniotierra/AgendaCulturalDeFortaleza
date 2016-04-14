@@ -1,19 +1,19 @@
 .version.m_sica /* version checker */
 {
-	color: #000003;
-	background-color: #0F62A1;
+	color: #000006;
+	background-color: #F4F23E;
 }
 
 #page
 {
 	z-index: 1;
-	width: 960px;
+	width: 720px;
 	min-height: 118px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 830px;
+	padding-bottom: 801px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -75,10 +75,10 @@
 
 #accordionu358wrapper
 {
-	min-height: 499px;
+	min-height: 544px;
 	z-index: 6;
 	margin-right: -10000px;
-	margin-top: 804px;
+	margin-top: 763px;
 }
 
 #accordionu358
@@ -325,11 +325,6 @@
 	position: relative;
 }
 
-#u1367_position_content,#u374_position_content,#u359_position_content,#u1340_position_content,#u1349_position_content,#u380_position_content,#u371_position_content,#u362_position_content,#u1358_position_content,#u368_position_content,#u365_position_content
-{
-	width: 100%;
-}
-
 #u366
 {
 	z-index: 60;
@@ -340,7 +335,35 @@
 
 #u367
 {
-	z-index: 62;
+	z-index: 63;
+	width: 183px;
+	height: 4px;
+	position: relative;
+}
+
+#u1570
+{
+	z-index: 64;
+	width: 183px;
+	position: relative;
+}
+
+#u1367_position_content,#u374_position_content,#u359_position_content,#u1340_position_content,#u1349_position_content,#u380_position_content,#u371_position_content,#u362_position_content,#u1358_position_content,#u368_position_content,#u365_position_content,#u1570_position_content
+{
+	width: 100%;
+}
+
+#u1571
+{
+	z-index: 66;
+	height: 45px;
+	width: 184px;
+	position: relative;
+}
+
+#u1572
+{
+	z-index: 68;
 	width: 183px;
 	height: 4px;
 	position: relative;
@@ -348,7 +371,7 @@
 
 #u350
 {
-	z-index: 63;
+	z-index: 69;
 	width: 39px;
 	position: relative;
 	margin-right: -10000px;
@@ -381,7 +404,7 @@
 
 #u352
 {
-	z-index: 65;
+	z-index: 71;
 	width: 39px;
 	position: relative;
 	margin-right: -10000px;
@@ -425,7 +448,7 @@
 
 #u348
 {
-	z-index: 68;
+	z-index: 74;
 	width: 72px;
 	position: relative;
 	margin-right: -10000px;
@@ -433,10 +456,9 @@
 
 #u640-6
 {
-	z-index: 70;
+	z-index: 76;
 	position: relative;
 	margin-right: -10000px;
-	left: 123px;
 }
 
 #muse_css_mq,.html
@@ -447,7 +469,7 @@
 body
 {
 	position: relative;
-	min-width: 960px;
+	min-width: 720px;
 	padding-top: 36px;
 	padding-bottom: 168px;
 }
